@@ -12,6 +12,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
+* [Foodshot](http://foodshot.co/) - high-quality food photos. CC0.
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 * [imcreator.com](http://imcreator.com/free) - requires attribution
@@ -25,6 +26,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [morguefile.com](http://www.morguefile.com/) - no attribution required
 * [moveast.me](http://moveast.me/) - a guy on a photographic journey. all images are CC0
 * [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
+* [NYPL Collection](http://www.nypl.org/research/collections/digital-collections/public-domain) - New York Public Library - Public Domain Image collection
 * [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
 * [photostockeditor.com](http://www.photostockeditor.com/) - free high-resolution images for personal and commercial use
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
@@ -38,6 +40,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
 * [startupstockphotos.com](http://startupstockphotos.com/) - startup related photos, free of licences
 * [stock-image-point.com](http://www.stock-image-point.com/) - mainly travel and landscape related images from a private collection. CC0.
+* [The Stocks](http://thestocks.im/) - stock photo site aggregator
 * [stocksnap.io](https://stocksnap.io/) - CC0 licensed
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
