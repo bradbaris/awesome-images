@@ -8,6 +8,8 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 
 A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
 
+* [Zoommy](https://zoommyapp.com/) - App that aggregates many of the below sources. Costs $4.
+
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
