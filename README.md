@@ -12,6 +12,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
+* [finda.photo](http://finda.photo/) - Aggregator of several sources, 10,000 photos and more.
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [Foodshot](http://foodshot.co/) - high-quality food photos. CC0.
