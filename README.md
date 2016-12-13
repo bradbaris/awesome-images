@@ -10,7 +10,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 * [AHoardOfPixels](http://ahoardofpixels.com/) - CC0 images, small collection.
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
-* [Compfight](http://compfight.com/) Super-fast search feature
+* [Compfight](http://compfight.com/) - Super-fast search feature
 * [Cupcake](http://cupcake.nilssonlee.se/) - CC0 images, mostly background-esque selection
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 * [finda.photo](http://finda.photo/) - Aggregator of several sources, 10,000 photos and more.
@@ -23,7 +23,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
-* [kaboompics.com](http://kaboompics.com/)
+* [kaboompics.com](http://kaboompics.com/) - Decent selection on wide variety of subjects.
 * [lifeofpix.com](http://www.lifeofpix.com/gallery/) - images for personal & commercial use. all images are donated to the public domain
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
 * [lockandstockphotos.com](http://lockandstockphotos.com/) - requires attribution
@@ -37,9 +37,9 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
 * [picography.co](http://picography.co/) - free of licences
 * [Pixabay](https://pixabay.com/) - CC0 photos, vector graphics, and illustrations
-* [publicdomainarchive.com](http://publicdomainarchive.com/) - public domain images
+* [publicdomainarchive.com](http://publicdomainarchive.com/) - Public domain images
 * [publicphoto.org](http://publicphoto.org/) - public domain photos
-* [raumrot.com](http://www.raumrot.com/)
+* [raumrot.com](http://www.raumrot.com/) - Great selection and quality photos of mostly everyday things, grouped by subject.
 * [resplashed.com](http://www.resplashed.com/) - HD images for your web and design projects. CC0.
 * [SpaceX](https://www.flickr.com/photos/spacexphotos) - high resolution Space-related media in the public domain
 * [splitshire.com](http://splitshire.com/) - delicious free stock photos for personal & commercial use
