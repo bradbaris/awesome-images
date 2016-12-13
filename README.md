@@ -8,21 +8,23 @@ alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 
 A curated list of amazingly awesome free (stock) photo resources for your projects. Inspired by all the other [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness) out there.
 
-* [Zoommy](https://zoommyapp.com/) - App that aggregates many of the below sources. Costs $4.
+* [AHoardOfPixels](http://ahoardofpixels.com/) - CC0 images, small collection.
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
 * [Compfight](http://compfight.com/) Super-fast search feature
+* [Cupcake](http://cupcake.nilssonlee.se/) - CC0 images, mostly background-esque selection
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
 * [finda.photo](http://finda.photo/) - Aggregator of several sources, 10,000 photos and more.
 * [flickr.com](https://www.flickr.com/photos/internetarchivebookimages/) - internet archive book images, no known copyright restrictions
 * [foodiesfeed.com](http://foodiesfeed.com/) - food images, free of licences
 * [Foodshot](http://foodshot.co/) - high-quality food photos. CC0.
+* [FreeNatureStock](http://freenaturestock.com/) - Exactly as its name describes.
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
 * [jaymantri.com](http://jaymantri.com/) - entirely free of copyrights. 7 new photos every thursday.
 * [kaboompics.com](http://kaboompics.com/)
-* [lifeofpix.com](http://www.lifeofpix.com/) - images for personal & commercial use. all images are donated to the public domain
+* [lifeofpix.com](http://www.lifeofpix.com/gallery/) - images for personal & commercial use. all images are donated to the public domain
 * [littlevisuals.co](http://littlevisuals.co/) - entirely free of copyrights. updated almost daily.
 * [lockandstockphotos.com](http://lockandstockphotos.com/) - requires attribution
 * [magdeleine.co](http://magdeleine.co/) - hand picked, most images are free of licences
@@ -50,7 +52,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
 * [unsplash.com](http://unsplash.com/) - free of licences
 * [wefunction.com](http://wefunction.com/category/free-photos/) - free of licences
-
+* [Zoommy](https://zoommyapp.com/) - App that aggregates many of the above sources. Costs $4.
 
 Contributing
 ------------
