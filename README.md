@@ -47,6 +47,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [stock-image-point.com](http://www.stock-image-point.com/) - mainly travel and landscape related images from a private collection. CC0.
 * [The Stocks](http://thestocks.im/) - stock photo site aggregator
 * [stocksnap.io](https://stocksnap.io/) - CC0 licensed
+* [skuawk](http://skuawk.com/) - Small collection, but good direction in curation.
 * [superfamous.com](http://superfamous.com/) - requires attribution
 * [titania-foto.com](http://www.titania-foto.com/) - german, no attribution required, only resale on other stock image websites forbidden
 * [travelcoffeebook.com](http://travelcoffeebook.com/) 10 beautiful travel photos every 10 days. - all images are CC0
