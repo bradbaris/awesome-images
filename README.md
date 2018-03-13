@@ -10,6 +10,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 
 * [AHoardOfPixels](http://ahoardofpixels.com/) - CC0 images, small collection.
 * [AllTheFreeStock](http://allthefreestock.com/) - CC0 images. Some of the video requires attribution
+* [altphotos.com](https://altphotos.com) - CC0 images. Handpicked high-resolution photos added every day
 * [Compfight](http://compfight.com/) - Super-fast search feature
 * [Cupcake](http://cupcake.nilssonlee.se/) - CC0 images, mostly background-esque selection
 * [fancycrave.com](http://fancycrave.com/) - royalty free high resolution images for your personal and commercial projects
@@ -19,6 +20,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [Foodshot](http://foodshot.co/) - high-quality food photos. CC0.
 * [FreeNatureStock](http://freenaturestock.com/) - Exactly as its name describes.
 * [getrefe.tumblr.com](http://getrefe.tumblr.com/) - photos of people interacting with technology for personal or commercial projects
+* [goodfreephotos.com](https://www.goodfreephotos.com) - Photos of different locations from across the world
 * [gratisography.com](http://www.gratisography.com/) - all pictures are free of copyright restrictions
 * [imcreator.com](http://imcreator.com/free) - requires attribution
 * [isorepublic.com](http://isorepublic.com/) - high-quality, free photos for creatives.
@@ -32,6 +34,7 @@ A curated list of amazingly awesome free (stock) photo resources for your projec
 * [moveast.me](http://moveast.me/) - a guy on a photographic journey. all images are CC0
 * [nos.twnsnd.co](http://nos.twnsnd.co/) - vintage images, free of any copyright restrictions
 * [NYPL Collection](http://www.nypl.org/research/collections/digital-collections/public-domain) - New York Public Library - Public Domain Image collection
+* [passel.co](http://passel.co/) - High quality free photos for designers. Updates weekly.
 * [pexels.com](http://www.pexels.com/) - beautiful collection of photos, free of licenses
 * [photostockeditor.com](http://www.photostockeditor.com/) - free high-resolution images for personal and commercial use
 * [picjumbo.com](http://picjumbo.com/) - totally free photos for your commercial & personal works
